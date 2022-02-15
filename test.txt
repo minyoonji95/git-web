@@ -1,0 +1,10 @@
+this is again a commit! //commit -snapshot | git commit -m "added text.txt file" (changes with comment)
+// init - initialization
+//status - files in the repository
+//  add - adding changes in global repository
+//  git log - shows every change that was made
+
+this is commit #2
+//branch - creating a new branch 
+//branch -m nameOfBranch renaming branch
+//checkout -b feautre - creating and changin branch 
